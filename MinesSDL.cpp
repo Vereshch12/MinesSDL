@@ -10,6 +10,7 @@
 #include "BombsField.h"
 
 #pragma region SDL STUFF
+
 SDL_Event e;
 
 SDL_Window* window;
