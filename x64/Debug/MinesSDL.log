@@ -1,0 +1,11 @@
+﻿  BombsField.h
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\GameObject.h(2,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  CollisionUtils.cpp
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\GameObject.h(2,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  MinesSDL.cpp
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\utils.h(5,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Time.cpp
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\Time.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  utils.cpp
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\utils.cpp(2,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Создание кода...

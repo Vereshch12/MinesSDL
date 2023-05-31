@@ -1,0 +1,4 @@
+E:\VisualStudioProjects\MinesSDL\Debug\MinesSDL.exe
+C:\Users\faras\Desktop\MinesSDL\Debug\MinesSDL.exe
+C:\Users\faras\Desktop\Учеба\2 семестр\ЯВУ\Курсовая работа\MinesSDL\Debug\MinesSDL.exe
+C:\Users\faras\Desktop\Курсовая работа\MinesSDL\Debug\MinesSDL.exe
